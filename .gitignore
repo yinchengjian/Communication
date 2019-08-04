@@ -1,6 +1,7 @@
 #idea plugin
 .idea/
 out/
+*.kotlin_module
 
 # Compiled class file
 *.class
